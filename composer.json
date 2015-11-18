@@ -1,0 +1,22 @@
+{
+    "name": "glutnix/nz-bank-account-validation",
+    "description": "A library that validates New Zealand bank account numbers as matching the format, within valid ranges, and contain a valid checksum.",
+    "autoload": {
+        "psr-4": {
+            "Glutnix\\": "src/Glutnix"
+        }
+    },
+    "require-dev": {
+        "phpspec/phpspec": "^2.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brett Taylor",
+            "email": "brett@webfroot.co.nz",
+            "homepage": "http://inner.geek.nz",
+            "role": "Developer"
+        }
+    ],
+    "require": {}
+}
