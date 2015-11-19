@@ -1,10 +1,14 @@
 {
     "name": "glutnix/nz-bank-account-validation",
-    "description": "A library that validates New Zealand bank account numbers as matching the format, within valid ranges, and contain a valid checksum.",
+    "description": "A library that validates New Zealand bank account numbers (BECS numbers) as matching the format, within valid ranges, and contain a valid checksum.",
+    "keywords": ["New Zealand", "bank", "validation", "bank account", "finance", "BECS"],
     "autoload": {
         "psr-4": {
             "Glutnix\\": "src/Glutnix"
         }
+    },
+    "require": {
+        "php": ">=5.4",
     },
     "require-dev": {
         "phpspec/phpspec": "^2.3"
