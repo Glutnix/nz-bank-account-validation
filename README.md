@@ -1,6 +1,10 @@
 # NZ Bank Account Validation for PHP
 
-[![Latest Stable Version](https://poser.pugx.org/glutnix/nz-bank-account-validation/v/stable)](https://packagist.org/packages/glutnix/nz-bank-account-validation) [![Build Status](https://travis-ci.org/Glutnix/nz-bank-account-validation.svg)](https://travis-ci.org/Glutnix/nz-bank-account-validation) [![Total Downloads](https://poser.pugx.org/glutnix/nz-bank-account-validation/downloads)](https://packagist.org/packages/glutnix/nz-bank-account-validation) [![Latest Unstable Version](https://poser.pugx.org/glutnix/nz-bank-account-validation/v/unstable)](https://packagist.org/packages/glutnix/nz-bank-account-validation) [![License](https://poser.pugx.org/glutnix/nz-bank-account-validation/license)](https://packagist.org/packages/glutnix/nz-bank-account-validation)
+[![Latest Stable Version](https://poser.pugx.org/glutnix/nz-bank-account-validation/v/stable)](https://packagist.org/packages/glutnix/nz-bank-account-validation) 
+[![Latest Unstable Version](https://poser.pugx.org/glutnix/nz-bank-account-validation/v/unstable)](https://packagist.org/packages/glutnix/nz-bank-account-validation) 
+[![Total Downloads](https://poser.pugx.org/glutnix/nz-bank-account-validation/downloads)](https://packagist.org/packages/glutnix/nz-bank-account-validation) 
+[![License](https://poser.pugx.org/glutnix/nz-bank-account-validation/license)](https://packagist.org/packages/glutnix/nz-bank-account-validation)
+[![Build Status](https://travis-ci.org/Glutnix/nz-bank-account-validation.svg)](https://travis-ci.org/Glutnix/nz-bank-account-validation)
 
 A PHP library that validates New Zealand bank account numbers (BECS numbers) as matching the format, within valid ranges, and contain a valid checksum.
 
